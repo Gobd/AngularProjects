@@ -1,0 +1,1 @@
+The most simple and ugly todo list, my first angular app!
